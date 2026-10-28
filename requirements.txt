@@ -1,4 +1,4 @@
-```text
+
 Flask
 flask-cors
 joblib
@@ -6,4 +6,3 @@ scikit-learn
 numpy
 scipy
 gunicorn
-```
